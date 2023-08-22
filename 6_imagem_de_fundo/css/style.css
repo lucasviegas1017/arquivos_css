@@ -1,0 +1,10 @@
+#background{
+	background-image: url(../img/img_amazon.png);
+	height: 400px;
+	background-size: cover;
+	
+}
+#background h2{
+	color: #620e0e;
+	text-align: center;
+}

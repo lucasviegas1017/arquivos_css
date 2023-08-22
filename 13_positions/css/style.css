@@ -1,0 +1,17 @@
+#background,#primeiro_titulo{
+	position: absolute;
+	top: 0;
+	left: 300px;
+}
+#pai{
+	position: relative;
+	width: 100px ;
+	height: 200px;
+}
+#fixo{
+	position: fixed;
+	top: 10px;
+	right: 10px;
+	background-color: red;
+	color: #fff;
+}

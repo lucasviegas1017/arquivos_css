@@ -1,0 +1,18 @@
+#primeiro-titulo{
+	border: 20px solid #333;
+	margin: 20px;
+}
+#segundo-titulo{
+	border: 45px double green;
+	margin: 40px;
+	margin-right: 100px;
+	margin-bottom: 400px;
+	margin-left: 200px;
+}
+#paragrafo{
+margin: 10px 20px 30px 80px;
+
+}
+#box{
+ margin: 50px 100px;
+}

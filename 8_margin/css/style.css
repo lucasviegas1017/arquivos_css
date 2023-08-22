@@ -1,0 +1,12 @@
+#primeiro-titulo{
+	border: 20px solid #333;
+}
+#segundo-titulo{
+	border: 45px double green;
+}
+#paragrafo{
+border-top: 5px solid grey;
+border-left: 2px solid turquoise;
+border-right: 20px solid firebrick;
+border-bottom: 3px dotted purple;
+}

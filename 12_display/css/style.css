@@ -1,0 +1,10 @@
+#background,#primeiro_titulo{
+	display: inline-block;
+	width: 100px;
+}
+span{
+	display: block;
+}
+h3{
+	display: none;
+}

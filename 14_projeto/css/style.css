@@ -1,0 +1,74 @@
+/*reset*/
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Courier New;
+
+}
+/*cabeçalho*/
+h1, p{
+    text-align: center;
+}
+h1{
+    margin-top: 40px;
+    margin-bottom: 20px;
+    color: aquamarine;
+}
+/*galeria*/
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+.card{
+    display: inline-block;
+    width: 200px;
+    margin: 25px;
+    border: 2px solid blue;
+}
+.card-image{
+    height: 200px;
+    background-size: cover;
+
+}
+.card-1 .card-image{
+    background-image: url("../img/arvore.jpg");
+}
+.card-2 .card-image{
+    background-image: url("../img/camping.jpg");
+}
+.card-3 .card-image{
+    background-image: url("../img/estrada.jpg");
+}
+.card-4 .card-image{
+    background-image: url("../img/motanha.jpg");
+}
+.card-5 .card-image{
+    background-image: url("../img/pc.jpg");
+}
+.card-6 .card-image{
+    background-image: url("../img/prato.jpg");
+}
+.btn{S
+    display:block ;
+    background-color: #4A87E8;
+    color:#fff;
+    margin-top: 20px;
+    text-decoration:none;
+    padding:10px;
+    border: 2px solid transparent;
+    font-weight: bold;
+    transition: .5s;
+    border-radius: 5px;
+}
+.btn:hover{
+    background-color: #fff;
+    color:#4A87E8;
+    border-color:#4A87E8;
+}
+.card-description{
+    padding: 20px 10px;
+}
+
+
+
